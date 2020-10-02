@@ -12,4 +12,4 @@ This nvg library deffinately wins when it comes to usability though. It is crazy
 
 This:
 
-![image of game of life run]('gol.gif')
+![image of game of life run](gol.gif)
